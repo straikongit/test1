@@ -1,15 +1,15 @@
 __author__ = 'far'
 
-print("Mercury Test1111")
-print("Mercury Test2")
-print("Mercury Test2")
+print("git Test1111")
+print("git Test2")
+print("git Test2")
 
-print("Mercury Test1")
-print("Mercury Test2")
-print("Mercury Test2")
+print("git Test1")
+print("git Test2")
+print("git Test2")
 
-print("Mercury Test1")
-print("Mercury Test2")
-print("Mercury Test22222")
+print("git Test1")
+print("git Test2")
+print("git Test22222")
 
 
